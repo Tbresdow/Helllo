@@ -7,6 +7,7 @@ package com.example;
 public class Message {
 
     public String getMessage(){
+        System.out.println("hello");
         return "Hello Maven";
     }
 
